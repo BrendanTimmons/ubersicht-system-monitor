@@ -9,7 +9,7 @@
     "lib": ["es2015", "es2016", "es2017", "es2018", "es2019", "es2020", "dom"],
     "target": "es5",
     "baseUrl": ".",
-    "outDir": "."
+    "outDir": "./build"
   },
   "include": ["src/**/*"],
   "exclude": ["node_modules"]
